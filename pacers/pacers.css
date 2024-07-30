@@ -1,0 +1,35 @@
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: 1.3em;
+    line-height: 1.3;
+    margin-bottom: 1.5%;
+    text-align: justify;
+    width: 40%;
+}
+h1{
+    text-align: center;
+    font-size: 5em;
+    color: rgb(56, 56, 172);
+
+}
+h2{
+    color: rgb(56, 56, 172);
+    
+    font-size: 3em;
+}
+
+h3{
+    color: rgb(212, 192, 6);
+    font-size: 2em;
+}
+
+body{
+    background-image: url(/img/WallpaperPacers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: calc(100vh - 70px);
+    background-color: #ffffff;
+}
